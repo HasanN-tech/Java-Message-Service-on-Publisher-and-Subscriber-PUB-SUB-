@@ -1,0 +1,2 @@
+# Java-Message-Service-on-Publisher-and-Subscriber-PUB-SUB-
+A Spring Boot–based implementation of the Java Message Service (JMS) Publisher-Subscriber (PUB-SUB) messaging model using Apache ActiveMQ. This project demonstrates asynchronous, topic-based communication between distributed applications, enabling scalable, reliable, and loosely coupled message exchange through publishers and multiple subscribers.
